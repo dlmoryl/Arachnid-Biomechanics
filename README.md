@@ -1,4 +1,5 @@
 # Arachnid-Biomechanics
+This GitHub Repository includes the majority of the code for a Spider Biomechanics masters thesis. This stands as an accessible backup for any who are continuing work on this project<br />
 List of files included:<br />
 <br />
 1.)Post Process: Inputs hexadecimal file from sensor and outputs in decimal form with graphs<br />
