@@ -1,5 +1,4 @@
-%%Edit Chase's data
-%Mar14
+%%Edit data from tracker into xyz format
 b=100;
 n=200;
 data=[table2array(Mar231070Unformatted(1:b,2:25)); table2array(Mar231070UnformattedS1(1:b,2:25)); table2array(Mar231070UnformattedS2(1:b,2:25));table2array(Mar231070UnformattedS3(1:b,2:25));table2array(Mar231070UnformattedS4(1:2:n,2:25));table2array(Mar231070UnformattedS5(1:2:n,2:25));table2array(Mar231070UnformattedS6(1:2:n,2:25)); table2array(Mar231070UnformattedS7(1:2:n,2:25))];
